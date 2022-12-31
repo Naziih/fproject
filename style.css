@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    margin: 50px auto 0px auto;
+    padding-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.625rem;
+    color: #66BFBF;
+    
+
+}
+.titre{
+    margin-top: 0px;
+}
+.top-container{
+    background-color: #EAF6F6;
+    padding: 50px;
+
+}
+
+.top-cloud-img{
+    position: absolute;
+    right: 300px;
+}
+.bottom-cloud-img{
+    position:absolute;
+    left: 300px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    text-align: left;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.nazih{
+    height: 250px;
+    width: 250px;
+    
+}
+.graphic {
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+    
+    
+}
+.web-dev{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    
+}
+.contact{
+    margin: auto;
+    text-align: center;
+}
+.bio{
+    margin-bottom: 50px;
+}
+.scdhr{
+    border-style: dotted none none none;
+    width: 5%;
+    border-top-width: 10px;
+    color: #EAF6F6;
+    margin: 50px auto auto auto;
+}
+.fsthr{
+    border-style: dotted none none none;
+    width: 5%;
+    border-top-width: 10px;
+    color: #EAF6F6;
+    
+
+}
+button{
+    background:linear-gradient(#66BFBF,#11999E) ;
+    margin: 60px auto;
+    border: none;
+    font-size: 18px;
+    padding: 8px 20px;
+    border-radius: 8px;
+
+}
+.btn{
+    color: #EAF6F6;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+    padding-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: #11999E;
+}
+.credits{
+    margin: 0px;
+    color: #EAF6F6;
+    font-size: 10px;
+    padding-top: 50px;
+}
+.footer-link{
+    margin: auto 25px;
+}
+.git{
+    margin-top: 50px;
+}
+.gd{
+    padding-top: 40px;
+}
